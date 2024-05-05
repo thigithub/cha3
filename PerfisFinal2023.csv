@@ -1,0 +1,36 @@
+﻿CBO;COD PERFIL;PERFIL;2022;2023;Variação;CV Amostra
+3172-10;TECSUP-01;Técnico de suporte ao usuário de tecnologia da informação Junior; R$ 1.347,18 ; R$ 1.409,97 ;4,66%;11,45%
+3172-10;TECSUP-02;Técnico de suporte ao usuário de tecnologia da informação Pleno; R$ 1.798,48 ; R$ 2.022,12 ;12,44%;12,46%
+3172-10;TECSUP-03;Técnico de suporte ao usuário de tecnologia da informação Senior; R$ 2.635,52 ; R$ 2.843,14 ;7,88%;12,61%
+3132-20;TECMAN-01;Técnico em manutenção de equipamentos de informática Junior; R$ 1.572,22 ; R$ 1.424,34 ;-9,41%;7,06%
+3132-20;TECMAN-02;Técnico em manutenção de equipamentos de informática Pleno; R$ 1.854,02 ; R$ 1.944,94 ;4,90%;16,66%
+3132-20;TECMAN-03;Técnico em manutenção de equipamentos de informática Senior; R$ 2.670,74 ; R$ 2.328,98 ;-12,80%;15,42%
+1425-30;GERSUP;Gerente de suporte técnico de tecnologia da informação; R$ 9.632,96 ; R$ 8.327,89 ;-13,55%;31,82%
+2124-20;ASUPCOMP-01;Analista de suporte computacional Junior; R$ 2.845,10 ; R$ 3.498,50 ;22,97%;8,94%
+2124-20;ASUPCOMP-02;Analista de suporte computacional Pleno; R$ 4.475,40 ; R$ 4.982,26 ;11,33%;14,62%
+2124-20;ASUPCOMP-03;Analista de suporte computacional Senior; R$ 6.590,90 ; R$ 7.283,27 ;10,50%;11,77%
+1425-5, 1425-15;GERINF;Gerente de infraestrutura de tecnologia da informação; R$ 16.582,20 ; R$ 14.690,30 ;-11,41%;24,25%
+2123-5;ABD-01;Administrador de banco de dados - Junior; R$ 4.430,11 ; R$ 4.081,77 ;-7,86%;19,05%
+2123-5;ABD-02;Administrador de banco de dados - Pleno; R$ 6.506,01 ; R$ 6.700,63 ;2,99%;9,89%
+2123-5;ABD-03;Administrador de banco de dados - Senior; R$ 9.929,10 ; R$ 9.726,46 ;-2,04%;10,50%
+2123-15;ASO-01;Administrador de sistemas operacionais Junior; R$ 2.417,10 ; R$ 4.183,02 ;73,06%;33,97%
+2123-15;ASO-02;Administrador de sistemas operacionais Pleno; R$ 4.787,76 ; R$ 6.482,74 ;35,40%;18,24%
+2123-15;ASO-03;Administrador de sistemas operacionais Senior; R$ 8.341,05 ; R$ 9.299,35 ;11,49%;9,97%
+2124-10, 2123-10;ARED-01;Analista de redes e de comunicação de dados Junior; R$ 3.400,88 ; R$ 4.026,78 ;18,40%;14,70%
+2124-10, 2123-10;ARED-02;Analista de redes e de comunicação de dados Pleno; R$ 4.897,29 ; R$ 5.683,15 ;16,05%;17,70%
+2124-10, 2123-10;ARED-03;Analista de redes e de comunicação de dados Senior; R$ 7.105,84 ; R$ 8.706,81 ;22,53%;15,07%
+3133-05, 3133-10;TECRED-01;Tecnico de Rede (Telecomunicacoes) Junior; R$ 1.620,84 ; R$ 1.508,35 ;-6,94%;12,05%
+3133-05, 3133-10;TECRED-02;Tecnico de Rede (Telecomunicacoes) Pleno; R$ 1.972,98 ; R$ 2.373,61 ;20,31%;20,76%
+3133-05, 3133-10;TECRED-03;Tecnico de Rede (Telecomunicacoes) Senior; R$ 2.943,70 ; R$ 2.988,82 ;1,53%;25,01%
+3171-10, 2124-30, 2124-05;DESTEC-01;Desenvolvedor de sistemas de tecnologia da informação Junior; R$ 4.313,63 ; R$ 4.799,62 ;11,27%;35,39%
+3171-10, 2124-30, 2124-05;DESTEC-02;Desenvolvedor de sistemas de tecnologia da informação Pleno; R$ 7.301,55 ; R$ 7.904,84 ;8,26%;28,85%
+3171-10, 2124-30, 2124-05;DESTEC-03;Desenvolvedor de sistemas de tecnologia da informação Senior; R$ 9.545,75 ; R$ 11.252,32 ;17,88%;18,22%
+2124-15, 2124-25;ASISA-01;Analista de sistemas de automação - Junior; R$ 3.533,35 ; R$ 4.127,87 ;16,83%;24,30%
+2124-15, 2124-25;ASISA-02;Analista de sistemas de automação - Pleno; R$ 5.036,89 ; R$ 6.110,13 ;21,31%;30,40%
+2124-15, 2124-25;ASISA-03;Analista de sistemas de automação - Senior; R$ 8.141,81 ; R$ 9.508,79 ;16,79%;19,16%
+2123-20;ASEG-01;Administrador em segurança da informação - Junior; R$ 4.798,15 ; R$ 6.133,85 ;27,84%;3,84%
+2123-20;ASEG-02;Administrador em segurança da informação - Pleno; R$ 7.257,31 ; R$ 7.382,47 ;1,72%;13,31%
+2123-20;ASEG-03;Administrador em segurança da informação - Senior; R$ 11.581,68 ; R$ 12.011,81 ;3,71%;17,04%
+1425-25;GERSEG;Gerente de segurança da informação; R$ 18.369,88 ; R$ 19.454,48 ;5,90%;22,66%
+2122-15;CLOUD-01;Especialista em Cloud Pleno; R$ -   ; R$ 10.515,73 ;0,00%;14,43%
+2122-15;CLOUD-02;Especialista em Cloud Sênior; R$ -   ; R$ 14.995,75 ;0,00%;17,71%
