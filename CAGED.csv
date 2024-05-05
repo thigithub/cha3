@@ -1,0 +1,30 @@
+﻿codigo;CBO;Percentil 25;Mediana;Percentil 75;Amostra
+142505;Gerente de Rede; 3.447 ; 8.872 ; 15.780 ; 1.312 
+142510;Gerente de Desenvolvimento de Sistemas; 10.120 ; 15.000 ; 20.000 ; 2.994 
+142515;Gerente de Producao de Tecnologia da Informacao; 5.714 ; 12.000 ; 18.710 ; 1.247 
+142520;Gerente de Projetos de Tecnologia da Informacao; 7.000 ; 10.500 ; 15.000 ; 6.748 
+142525;Gerente de Seguranca de Tecnologia da Informacao; 5.000 ; 15.484 ; 21.000 ; 369 
+142530;Gerente de Suporte Tecnico de Tecnologia da Informacao; 2.944 ; 6.071 ; 13.000 ; 1.629 
+142535;Tecnólogo em Gestão da Tecnologia da Informação; 2.171 ; 4.500 ; 9.763 ; 1.176 
+142605;Gerente de Pesquisa e Desenvolvimento (P&D); 6.741 ; 12.000 ; 18.000 ; 4.087 
+142705;Gerente de Projetos e Servicos de Manutencao; 3.324 ; 6.000 ; 10.828 ; 6.335 
+212205;Engenheiro de Aplicativos em Computacao; 7.001 ; 11.000 ; 15.421 ; 3.442 
+212210;Engenheiro de Equipamentos em Computacao; 6.700 ; 10.500 ; 15.000 ; 445 
+212215;Engenheiros de Sistemas Operacionais em Computacao; 7.200 ; 12.000 ; 17.505 ; 3.448 
+212305;Administrador de Banco de Dados; 4.071 ; 7.500 ; 10.816 ; 2.903 
+212310;Administrador de Redes; 2.296 ; 4.030 ; 7.684 ; 1.901 
+212315;Administrador de Sistemas Operacionais; 2.650 ; 5.227 ; 10.500 ; 2.981 
+212320;Administrador em Segurança da Informação; 4.000 ; 6.500 ; 10.017 ; 3.788 
+212405;Analista de Desenvolvimento de Sistemas; 3.600 ; 6.428 ; 9.741 ; 80.378 
+212410;Analista de Redes e de Comunicacao de Dados; 2.200 ; 3.500 ; 5.849 ; 13.636 
+212415;Analista de Sistemas de Automacao; 2.500 ; 3.896 ; 6.000 ; 2.996 
+212420;Analista de Suporte Computacional; 1.938 ; 2.565 ; 4.151 ; 36.537 
+313220;Tecnico em Manutencao de Equipamentos de Informatica; 1.400 ; 1.708 ; 2.057 ; 18.731 
+313305;Tecnico de Comunicacao de Dados; 1.332 ; 1.669 ; 2.200 ; 2.135 
+313310;Tecnico de Rede (Telecomunicacoes); 1.282 ; 1.500 ; 1.902 ; 9.779 
+317105;Programador de Internet; 1.900 ; 2.600 ; 4.800 ; 3.050 
+317110;Programador de Sistemas de Informacao; 2.500 ; 4.130 ; 7.500 ; 35.533 
+317115;Programador de Maquinas - Ferramenta com Comando Numer; 2.412 ; 3.300 ; 4.400 ; 1.247 
+317120;Programador de Multimidia; 2.015 ; 3.080 ; 5.500 ; 873 
+317205;Operador de Computador (Inclusive Microcomputador); 1.274 ; 1.500 ; 1.980 ; 14.850 
+317210;Tecnico de Apoio ao Usuario de Informatica (Helpdesk); 1.493 ; 1.800 ; 2.204 ; 30.130 

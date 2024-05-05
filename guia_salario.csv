@@ -1,0 +1,63 @@
+﻿Área;Cargo;Categorização;Salário de Referência
+;;;
+Liderança Executiva;CIO - Chief Information Officer;-;#DIV/0!
+Liderança Executiva;CTO - Chief Technology Officer;-;#DIV/0!
+Liderança Executiva;CSO - Chief Security Officer;-;#DIV/0!
+Liderança Executiva;Gerente de TI Generalista;-;#DIV/0!
+Liderança Executiva;Gerente de Desenvolvimento;-;#DIV/0!
+Liderança Executiva;Gerente de Sistemas;-;#DIV/0!
+Liderança Executiva;Gerente de Dados;-;#DIV/0!
+Liderança Executiva;Gerente de BI;-;#DIV/0!
+Liderança Executiva;Gerente de Segurança da Informação;Gerente de segurança da informação;#DIV/0!
+Liderança Executiva;Gerente de Infraestrutura;Gerente de infraestrutura de tecnologia da informação;#DIV/0!
+Desenvolvimento;Desenvolvedor Mobile Sênior;-;#DIV/0!
+Desenvolvimento;Desenvolvedor Mobile Pleno;-;#DIV/0!
+Desenvolvimento;Desenvolvedor Mobile Júnior;-;#DIV/0!
+Desenvolvimento;Desenvolvedor Front-End Sênior;-;#DIV/0!
+Desenvolvimento;Desenvolvedor Front-End Pleno;-;#DIV/0!
+Desenvolvimento;Desenvolvedor Front-End Junior;-;#DIV/0!
+Desenvolvimento;Desenvolvedor Full-Stack Sênior;Desenvolvedor de sistemas de tecnologia da informação Senior;#DIV/0!
+Desenvolvimento;Desenvolvedor Full-Stack Pleno;Desenvolvedor de sistemas de tecnologia da informação Pleno;#DIV/0!
+Desenvolvimento;Desenvolvedor Back-End Sênior;Desenvolvedor de sistemas de tecnologia da informação Senior;#DIV/0!
+Desenvolvimento;Desenvolvedor Back-End Pleno;Desenvolvedor de sistemas de tecnologia da informação Pleno;#DIV/0!
+Desenvolvimento;Desenvolvedor Back-End Júnior;Desenvolvedor de sistemas de tecnologia da informação Junior;#DIV/0!
+Desenvolvimento;Product Owner - PO;-;#DIV/0!
+Desenvolvimento;Gerente de Produto;-;#DIV/0!
+Desenvolvimento;Scrum Master;-;#DIV/0!
+Desenvolvimento;Agile Coach;-;#DIV/0!
+Desenvolvimento;Analista de Testes Sênior;-;#DIV/0!
+Desenvolvimento;Analista de Testes Pleno;-;#DIV/0!
+Desenvolvimento;Analista de Testes Júnior;-;#DIV/0!
+Aplicação e Integração de Sistemas;Coordenador de Sistemas;-;#DIV/0!
+Aplicação e Integração de Sistemas;Analista de Negócios;-;#DIV/0!
+Aplicação e Integração de Sistemas;Analista de Sistemas Sênior;-;#DIV/0!
+Aplicação e Integração de Sistemas;Analista de Sistemas Pleno;-;#DIV/0!
+Aplicação e Integração de Sistemas;Analista de Sistemas Júnior;-;#DIV/0!
+Aplicação e Integração de Sistemas;Arquiteto de Software;-;#DIV/0!
+Aplicação e Integração de Sistemas;Analista de Devops;Analista de sistemas de automação - Senior;#DIV/0!
+Big Data;Especialista Cientista de dados;-;#DIV/0!
+Big Data;Especialista de BI;-;#DIV/0!
+Big Data;Analista de BI Sênior;-;#DIV/0!
+Big Data;Analista de BI Pleno;-;#DIV/0!
+Big Data;Analista de BI Júnior;-;#DIV/0!
+Segurança;Coordenador de Segurança da Informação;Gerente de segurança da informação;#DIV/0!
+Segurança;Analista de Segurança Sênior;Administrador em segurança da informação - Senior;#DIV/0!
+Segurança;Analista de Segurança Pleno;Administrador em segurança da informação - Pleno;#DIV/0!
+Segurança;Analista de Segurança Júnior;Administrador em segurança da informação - Junior;#DIV/0!
+Segurança;PenTester;Administrador em segurança da informação - Senior;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Especialista de Cloud;Especialista em Cloud Pleno;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Coordenador de Infraestrutura;Gerente de infraestrutura de tecnologia da informação;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Infraestrutura Sênior;Administrador de sistemas operacionais Senior;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Infraestrutura Sênior;Analista de redes e de comunicação de dados Senior;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Infraestrutura Sênior;Analista de sistemas de automação - Senior;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Infraestrutura Pleno;Administrador de sistemas operacionais Pleno;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Infraestrutura Pleno;Analista de redes e de comunicação de dados Pleno;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Infraestrutura Pleno;Analista de sistemas de automação - Pleno;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Infraestrutura Júnior;Administrador de sistemas operacionais Junior;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Infraestrutura Júnior;Analista de redes e de comunicação de dados Junior;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Infraestrutura Júnior;Analista de sistemas de automação - Junior;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Suporte Senior;Analista de suporte computacional Senior;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Suporte Pleno;Analista de suporte computacional Pleno;#DIV/0!
+Infraestrutura/Cloud/Help Desk/Redes;Analista de Suporte Júnior;Analista de suporte computacional Junior;#DIV/0!
+ERPsCRMs;Gerente de Projetos;-;#DIV/0!
+ERPsCRMs;Consultor ERP;-;#DIV/0!

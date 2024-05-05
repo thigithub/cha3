@@ -1,0 +1,36 @@
+﻿Sequência;Código Perfil;Perfil Profissional de Referência;Código CBO
+1;TECSUP-01;Técnico de suporte ao usuário de tecnologia da informação Junior;3172-10
+2;TECSUP-02;Técnico de suporte ao usuário de tecnologia da informação Pleno;3172-10
+3;TECSUP-03;Técnico de suporte ao usuário de tecnologia da informação Senior;3172-10
+4;TECMAN-01;Técnico em manutenção de equipamentos de informática Junior;3132-20
+5;TECMAN-02;Técnico em manutenção de equipamentos de informática Pleno;3132-20
+6;TECMAN-03;Técnico em manutenção de equipamentos de informática Senior;3132-20
+7;GERSUP;Gerente de suporte técnico de tecnologia da informação;1425-30
+8;ASUPCOMP-01;Analista de suporte computacional Junior;2124-20
+9;ASUPCOMP-02;Analista de suporte computacional Pleno;2124-20
+10;ASUPCOMP-03;Analista de suporte computacional Senior;2124-20
+11;GERINF;Gerente de infraestrutura de tecnologia da informação;1425-5, 1425-15
+12;ABD-01;Administrador de banco de dados - Junior;2123-5
+13;ABD-02;Administrador de banco de dados - Pleno;2123-5
+14;ABD-03;Administrador de banco de dados - Senior;2123-5
+15;ASO-01;Administrador de sistemas operacionais Junior;2123-15
+16;ASO-02;Administrador de sistemas operacionais Pleno;2123-15
+17;ASO-03;Administrador de sistemas operacionais Senior;2123-15
+18;ARED-01;Analista de redes e de comunicação de dados Junior;2124-10, 2123-10
+19;ARED-02;Analista de redes e de comunicação de dados Pleno;2124-10, 2123-10
+20;ARED-03;Analista de redes e de comunicação de dados Senior;2124-10, 2123-10
+21;TECRED-01;Tecnico de Rede (Telecomunicacoes) Junior;3133-10
+22;TECRED-02;Tecnico de Rede (Telecomunicacoes) Pleno;3133-10
+23;TECRED-03;Tecnico de Rede (Telecomunicacoes) Senior;3133-10
+24;DESTEC-01;Desenvolvedor de sistemas de tecnologia da informação Junior;3171-10
+25;DESTEC-02;Desenvolvedor de sistemas de tecnologia da informação Pleno;3171-10
+26;DESTEC-03;Desenvolvedor de sistemas de tecnologia da informação Senior;3171-10
+27;ASISA-01;Analista de sistemas de automação - Junior;2124-15
+28;ASISA-02;Analista de sistemas de automação - Pleno;2124-15
+29;ASISA-03;Analista de sistemas de automação - Senior;2124-15
+30;ASEG-01;Administrador em segurança da informação - Junior;2123-20
+31;ASEG-02;Administrador em segurança da informação - Pleno;2123-20
+32;ASEG-03;Administrador em segurança da informação - Senior;2123-20
+33;GERSEG;Gerente de segurança da informação;1425-25
+34;CLOUD-01;Especialista em Cloud Pleno;2122-15
+35;CLOUD-02;Especialista em Cloud Sênior;2122-15
